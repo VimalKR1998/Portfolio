@@ -6,7 +6,7 @@
 /*For the entire page*/
 *{
 	box-sizing: border-box;
-	margin: 0px 8px 0px 5px;
+	margin: 0;
 	padding:0;
 }
 /*----------------------------------------*/
